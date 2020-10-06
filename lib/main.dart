@@ -63,6 +63,9 @@ class _MyHomePageState extends State<MyHomePage> {
            Text(
               'This is to check setSate method',
             ),
+            Container(
+              child: Text("Added by Divyashree"),
+              ),
 
             Text(
               '$_counter',
